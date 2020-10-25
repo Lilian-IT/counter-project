@@ -1,0 +1,23 @@
+* {
+  margin: 5px;
+  padding: 15px;
+  background-color: bisque;
+}
+.main {
+  display: flex;
+  justify-content: center;
+}
+.quantity {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.btn {
+  background-color: rgb(169, 169, 219);
+  display: flex;
+  margin-top: 2px;
+}
+#quantity {
+  text-align: center;
+  font-size: 15px;
+}
